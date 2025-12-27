@@ -1,0 +1,9 @@
+permissions:
+  create:
+    onlyOp: true
+  delete:
+    onlyOp: true
+  use:
+    onlyOp: false
+  reload:
+    onlyOp: true

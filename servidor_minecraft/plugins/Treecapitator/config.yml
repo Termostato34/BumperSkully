@@ -1,0 +1,14 @@
+enabled: True
+durabilityPerLog: 1 #amount of durability lost per log cut down
+maxLogsPerTree: -1 #-1 is infinite
+allowStrippedLogs: true #if false, trees with stripped logs will not instamine
+allowedTrees:
+  - OAK
+  - BIRCH
+  - SPRUCE
+  - JUNGLE
+  - ACACIA
+  - DARK_OAK
+  - CHERRY
+  - PALE_OAK
+  - MANGROVE
